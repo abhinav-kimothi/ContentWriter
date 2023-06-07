@@ -1,0 +1,116 @@
+{
+	"Cheerful": {
+		"1": "an optimistic tone",
+		"2": "a cheerful voice",
+		"3": "a happy tone",
+        "4": "a joyful voice"
+	},
+	"Confident": {
+		"1": "a professional tone",
+		"2": "a reassuring tone",
+		"3": "a positive tone",
+        "4": "an assertive tone"
+	},
+	"Anxious": {
+		"1": "a concerned voice",
+		"2": "a distressed voice",
+		"3": "a nervous tone",
+        "4": "a fearful tone"
+	},
+	"Surprised": {
+		"1": "a surprised tone",
+		"2": "an astonished voice",
+		"3": "an amazed tone",
+        "4": "a shocked tone"
+	},
+	"Sad": {
+		"1": "a pessimistic tone",
+		"2": "a somber tone",
+		"3": "a sorrowful voice",
+        "4": "a negative tone"
+	},
+	"Excited": {
+		"1": "an excited tone",
+		"2": "an ecstatic voice",
+		"3": "a passionate voice",
+        "4": "an enthusiastic tone"
+	},
+	"Calm": {
+		"1": "a calm tone",
+		"2": "a gentle tone",
+		"3": "a pacifying voice",
+        "4": "a caring tone"
+	},
+	"Victorious": {
+		"1": "a celebratory tone",
+		"2": "a victorious tone",
+		"3": "a triumphant voice",
+        "4": "a winning tone"
+	},
+	"Witty": {
+		"1": "a witty and intelligent tone",
+		"2": "an entertaining and intelligent tone",
+		"3": "a quick-witted and sharp tone",
+        "4": "a sharp-witted and amusing tone"
+	},
+	"witty": {
+		"1": "a witty and intelligent tone",
+		"2": "an entertaining and intelligent tone",
+		"3": "a quick-witted and sharp tone",
+        "4": "a sharp-witted and amusing tone"
+	},
+	"Sarcastic":{
+		"1": "a dry, sarcastic tone",
+		"2": "a snarky, sarcastic tone",
+		"3": "a scornful, sarcastic tone",
+        "4": "a tone filled with dry humor"
+	},
+	"Funny":{
+		"1": "a funny and quirky tone",
+		"2": "a humorous and hilarious tone",
+		"3": "a comical and jocular tone",
+        "4": "a hilarious and amusing tone"
+	},
+	"Enthusiastic":{
+		"1": "an enthusiastic tone",
+		"2": "a passionate tone",
+		"3": "an energetic tone",
+        "4": "an animated tone"
+	},
+	"Formal":{
+		"1": "a formal tone",
+		"2": "a professional tone",
+		"3": "an official tone",
+        "4": "an authoritative tone"
+	},
+	"Conversational":{
+		"1": "a conversational tone",
+		"2": "a chatty tone",
+		"3": "a colloquial tone",
+        "4": "an conversational tone"
+	},
+	"Casual":{
+		"1": "a casual tone",
+		"2": "an informal tone",
+		"3": "a friendly tone",
+        "4": "a relaxed tone"
+	},
+	"Respectful":{
+		"1": "a respectful tone",
+		"2": "an admiring tone",
+		"3": "a polite tone",
+        "4": "a reverent tone"
+	},
+	"Sympathetic":{
+		"1": "a sympathetic tone",
+		"2": "a comforting tone",
+		"3": "an encouraging tone",
+        "4": "a supportive tone"
+	},
+	"Romantic":{
+		"1": "a romantic tone",
+		"2": "a lovey-dovey tone",
+		"3": "an endearing tone",
+        "4": "a romantic tone"
+	}
+}
