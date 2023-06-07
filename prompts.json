@@ -1,0 +1,1033 @@
+{
+    "Format":   
+    {
+        "Presentation":"writing text for a slide deck on the topic - {{topic}}.",
+
+        "Mobile Presentation":"writing text for a slide deck on the topic - {{topic}}.",
+    
+        "Slide Show Video":"writing text for a slide show on the topic - {{topic}}.",
+    
+        "Case Study":"writing a case study on the topic - {{topic}}.",
+    
+        "Company Update":"writing an update note for your company on the subject - {{topic}}.",
+    
+        "Event Announcement":"writing text for a social media poster for the event - {{topic}}. ",
+    
+        "Share News":"writing text to share the news on- {{topic}}.",
+    
+        "Greetings":"writing text for a social media poster for a greeting on - {{topic}}.",
+    
+        "Advertisement":"writing copy for an advertisement on - {{topic}}.",
+    
+        "Share Experience":"writing text note to share your experience on - {{topic}}.",
+    
+        "Client Testimonials":"writing a testimonial on - {{topic}}.",
+    
+        "How-To Articles":"writing a how-to article on - {{topic}}.",
+    
+        "Listicle":"creating a social media carousel in the form of a listicle on - {{topic}}.",
+    
+        "Text Post":"writing a social media post on the topic - {{topic}}.",
+    
+        "LinkedIn Article":"writing an article on the topic - {{topic}}.",
+    
+        "LinkedIn Single Slide Post":"writing text for a social media poster on the topic - {{topic}}.",
+    
+        "LinkedIn Carousel Post":"writing text for a social media carousel on the topic - {{topic}}.",
+    
+        "LinkedIn Multi Slide Post":"writing text for a social media carousel on the topic - {{topic}}.",
+    
+        "LinkedIn Ad":"writing text copy for a linkedin ad on the topic - {{topic}}.",
+    
+        "LinkedIn Slide Show Video":"writing text for a slide show on the topic - {{topic}}.",
+        
+        "Facebook Single Slide Post":"writing text for a social media poster on the topic - {{topic}}.",
+    
+        "Facebook Multi Slide Post":"writing text for a social media carousel on the topic - {{topic}}.",
+    
+        "Facebook Ad":"writing text copy for a facebook ad on the topic - {{topic}}.",
+    
+        "Facebook Story":"writing text copy for a facebook story on the topic - {{topic}}.",
+    
+        "Instagram Single Slide Post":"writing text for a social media poster on the topic - {{topic}}.",
+    
+        "Instagram Carousel Post":"writing text for a social media carousel on the topic - {{topic}}.",
+    
+        "Instagram Ad":"writing text copy for an instagram ad on the topic - {{topic}}.",
+    
+        "Instagram Story":"writing text copy for a instagram story on the topic - {{topic}}.",
+    
+        "Single Tweet":"writing a tweet on the topic - {{topic}}.",
+    
+        "Twitter Thread":"writing a tweet thread on the topic - {{topic}}.",
+    
+        "Tweet with Image":"writing text for a social media poster on the topic - {{topic}}.",
+    
+        "Blog Intro":"writing an intro for a blog on the topic - {{topic}}.",
+    
+        "Blog Outro":"writing a conclusion for a blog on the topic - {{topic}}.",
+    
+        "Blog":"writing a blog on the topic - {{topic}}.",
+    
+        "Blog Outline":"writing a blog on the topic - {{topic}}.",
+    
+        "Listicle Blog":"writing a blog in the form of a listicle on the topic - {{topic}}.",
+    
+        "Press Release":"writing a press release on the subject - {{topic}}.",
+    
+        "Testimonial":"writing a testimonial on the topic - {{topic}}.",
+    
+        "Highlight Product Benefits":"writing the product benefits for the product - {{topic}}.",
+    
+        "Product Description":"writing a product description for the product - {{topic}}.",
+    
+        "Product Features":"writing product features for the product - {{topic}}.",
+    
+        "AIDA":"writing a copy in the AIDA (Awareness,Interest,Desire,Action) format on - {{topic}}.",
+    
+        "PAS":"writing a copy in the PAS (Pain-Agitate-Solution) format on - {{topic}}.",
+    
+        "BAB":"writing a copy in the BAB (Before-After-Bridge) format on - {{topic}}.",
+    
+        "Welcome Email":"writing a welcome email on the subject - {{topic}}.",
+    
+        "New Product Launch Email":"writing an email for the launch of a new product on the subject - {{topic}}.",
+    
+        "Product Update Email":"writing an email for the update of a product on the subject - {{topic}}.",
+    
+        "Cold Outreach Email":"writing a sales email to reach out to new prospects on the subject - {{topic}}.",
+    
+        "Event Promotion Email":"writing an email to promote an event on the subject - {{topic}}.",
+    
+        "Greetings Email":"writing an email to greet your customers on the subject - {{topic}}."
+
+    },
+    "Tonality":  
+    {
+        "Presentation":" The tonality of the slide deck is {{tonality}}.",
+
+        "Mobile Presentation":" The tonality of the slide deck is {{tonality}}.",
+    
+        "Slide Show Video":" The tonality of the slide show is {{tonality}}.",
+    
+        "Case Study":" The tonality of the case study is {{tonality}}.",
+    
+        "Company Update":" The tonality of the update note is {{tonality}}.",
+    
+        "Event Announcement":" The tonality of the poster is {{tonality}}.",
+    
+        "Share News":" The tonality of the news is {{tonality}}.",
+    
+        "Greetings":" The tonality of greetings poster is {{tonality}}.",
+    
+        "Advertisement":" The tonality of the advertisement is {{tonality}}.",
+    
+        "Share Experience":" The tonality of the note is {{tonality}}.",
+    
+        "Client Testimonials":" The tonality of the testimonial is {{tonality}}.",
+    
+        "How-To Articles":" The tonality of the how-to article is {{tonality}}.",
+    
+        "Listicle":" The tonality of the listicle is {{tonality}}.",
+    
+        "Text Post":" The tonality of the post is {{tonality}}.",
+    
+        "LinkedIn Article":" The tonality of the article is {{tonality}}.",
+    
+        "LinkedIn Single Slide Post":" The tonality of the poster is {{tonality}}.",
+    
+        "LinkedIn Carousel Post":" The tonality of the carousel post is {{tonality}}.",
+    
+        "LinkedIn Multi Slide Post":" The tonality of the carousel post is {{tonality}}.",
+    
+        "LinkedIn Ad":" The tonality of the advertisement is {{tonality}}.",
+    
+        "LinkedIn Slide Show Video":" The tonality of the slide show is {{tonality}}.",
+        
+        "Facebook Single Slide Post":" The tonality of the poster is {{tonality}}.",
+    
+        "Facebook Multi Slide Post":" The tonality of the carousel post is {{tonality}}.",
+    
+        "Facebook Ad":" The tonality of the advertisement is {{tonality}}.",
+    
+        "Facebook Story":" The tonality of the story is {{tonality}}.",
+    
+        "Instagram Single Slide Post":" The tonality of the poster is {{tonality}}.",
+    
+        "Instagram Carousel Post":" The tonality of the carousel post is {{tonality}}.",
+    
+        "Instagram Ad":" The tonality of the advertisement is {{tonality}}.",
+    
+        "Instagram Story":" The tonality of the story is {{tonality}}.",
+    
+        "Single Tweet":" The tonality of the tweet is {{tonality}}.",
+    
+        "Twitter Thread":" The tonality of the thread is {{tonality}}.",
+    
+        "Tweet with Image":" The tonality of the poster is {{tonality}}.",
+    
+        "Blog Intro":" The tonality of the blog intro is {{tonality}}.",
+    
+        "Blog Outro":" The tonality of the blog conclusion is {{tonality}}.",
+    
+        "Blog":" The tonality of the blog is {{tonality}}.",
+    
+        "Blog Outline":" The tonality of the blog outline is {{tonality}}.",
+    
+        "Listicle Blog":" The tonality of the listicle blog is {{tonality}}.",
+    
+        "Press Release":" The tonality of the press release is {{tonality}}.",
+    
+        "Testimonial":" The tonality of the testimonial is {{tonality}}.",
+    
+        "Highlight Product Benefits":" The tonality of the product benefits is {{tonality}}.",
+    
+        "Product Description":" The tonality of the product description is {{tonality}}.",
+    
+        "Product Features":" The tonality of the product features is {{tonality}}.",
+    
+        "AIDA":" The tonality of the copy is {{tonality}}.",
+    
+        "PAS":" The tonality of the copy is {{tonality}}.",
+    
+        "BAB":" The tonality of the copy is {{tonality}}.",
+    
+        "Welcome Email":" The tonality of the email is {{tonality}}.",
+    
+        "New Product Launch Email":" The tonality of the email is {{tonality}}.",
+    
+        "Product Update Email":" The tonality of the email is {{tonality}}.",
+    
+        "Cold Outreach Email":" The tonality of the email is {{tonality}}.",
+    
+        "Event Promotion Email":" The tonality of the email is {{tonality}}.",
+    
+        "Greetings Email":" The tonality of the email is {{tonality}}."
+
+
+    },
+    "Heading only":
+    {
+        "Presentation":" Write only the heading for each slide of the slide deck. Return in following format -\n\n Slide Number: \n\n Slide Heading: ",
+
+        "Mobile Presentation":" Write only the heading for each slide of the slide deck. Return in following format-\n\n Slide Number: \n\n Slide Heading: ",
+    
+        "Slide Show Video":" Write only the heading for each slide of the slide show. Return in following format-\n\n Slide Number: \n\n Slide Heading: ",
+    
+        "Case Study":" ",
+    
+        "Company Update":" ",
+    
+        "Event Announcement":" Write only the heading for the poster",
+    
+        "Share News":" ",
+    
+        "Greetings":" Write only the heading for the greetings poster",
+    
+        "Advertisement":" Write only the heading for the advertisement",
+    
+        "Share Experience":" ",
+    
+        "Client Testimonials":" ",
+    
+        "How-To Articles":" ",
+    
+        "Listicle":" Write only the heading for each slide of the carousel. Return in following format-\n\n Slide Number: \n\n Slide Heading: ",
+    
+        "Text Post":" ",
+    
+        "LinkedIn Article":" ",
+    
+        "LinkedIn Single Slide Post":" Write only the heading for the poster",
+    
+        "LinkedIn Carousel Post":" Write only the heading for each slide of the carousel post. Return in following format-\n\n Slide Number: \n\n Slide Heading: ",
+    
+        "LinkedIn Multi Slide Post":" Write only the heading for each slide of the carousel post. Return in following format-\n\n Slide Number: \n\n Slide Heading: ",
+    
+        "LinkedIn Ad":" Write only the heading for the advertisement",
+    
+        "LinkedIn Slide Show Video":" Write only the heading for each slide of the slide show. Return in following format-\n\n Slide Number: \n\n Slide Heading: ",
+        
+        "Facebook Single Slide Post":" Write only the heading for the poster",
+    
+        "Facebook Multi Slide Post":" Write only the heading for each slide of the carousel post. Return in following format-\n\n Slide Number: \n\n Slide Heading: ",
+    
+        "Facebook Ad":" Write only the heading for the advertisement",
+    
+        "Facebook Story":" Write only the heading for the story",
+    
+        "Instagram Single Slide Post":" Write only the heading for the poster.",
+    
+        "Instagram Carousel Post":" Write only the heading for each slide of the carousel post. Return in following format-\n\n Slide Number: \n\n Slide Heading: ",
+    
+        "Instagram Ad":" Write only the heading for the advertisement",
+    
+        "Instagram Story":" Write only the heading for the story",
+    
+        "Single Tweet":" ",
+    
+        "Twitter Thread":" ",
+    
+        "Tweet with Image":" Write only the heading for the poster",
+    
+        "Blog Intro":" ",
+    
+        "Blog Outro":" ",
+    
+        "Blog":" ",
+    
+        "Blog Outline":" ",
+    
+        "Listicle Blog":" ",
+    
+        "Press Release":" ",
+    
+        "Testimonial":" ",
+    
+        "Highlight Product Benefits":" ",
+    
+        "Product Description":" ",
+    
+        "Product Features":" ",
+    
+        "AIDA":" ",
+    
+        "PAS":" ",
+    
+        "BAB":" ",
+    
+        "Welcome Email":" ",
+    
+        "New Product Launch Email":" ",
+    
+        "Product Update Email":" ",
+    
+        "Cold Outreach Email":" ",
+    
+        "Event Promotion Email":" ",
+    
+        "Greetings Email":" "
+
+    },
+    "Paragraph only":
+    {
+        "Presentation":" Write only a very short paragraph for each slide of the slide deck. Return in following format -\n\n Slide Number: \n\n Slide body text: ",
+
+        "Mobile Presentation":" Write only a very short paragraph for each slide of the slide deck. Return in following format -\n\n Slide Number: \n\n Slide body text: ",
+    
+        "Slide Show Video":" Write only a very short paragraph for each slide of the slide show.  Return in following format -\n\n Slide Number: \n\n Slide body text: ",
+    
+        "Case Study":" ",
+    
+        "Company Update":" ",
+    
+        "Event Announcement":" Write only a very short paragraph for the poster",
+    
+        "Share News":" ",
+    
+        "Greetings":" Write only a very short paragraph for the greetings poster",
+    
+        "Advertisement":" Write only a very short paragraph for the advertisement",
+    
+        "Share Experience":" ",
+    
+        "Client Testimonials":" ",
+    
+        "How-To Articles":" ",
+    
+        "Listicle":" Write only a very short paragraph for each slide of the carousel. Return in following format -\n\n Slide Number: \n\n Slide body text: ",
+    
+        "Text Post":" ",
+    
+        "LinkedIn Article":" ",
+    
+        "LinkedIn Single Slide Post":" Write only a very short paragraph for the poster",
+    
+        "LinkedIn Carousel Post":" Write only a very short paragraph for each slide of the carousel post. Return in following format -\n\n Slide Number: \n\n Slide body text: ",
+    
+        "LinkedIn Multi Slide Post":" Write only a very short paragraph for each slide of the carousel post.  Return in following format -\n\n Slide Number: \n\n Slide body text: ",
+    
+        "LinkedIn Ad":" Write only a very short paragraph the advertisement",
+    
+        "LinkedIn Slide Show Video":" Write only a very short paragraph for each slide of the slide show.  Return in following format -\n\n Slide Number: \n\n Slide body text: ",
+        
+        "Facebook Single Slide Post":" Write only a very short paragraph for the poster",
+    
+        "Facebook Multi Slide Post":" Write only a very short paragraph for each slide of the carousel post.  Return in following format -\n\n Slide Number: \n\n Slide body text: ",
+    
+        "Facebook Ad":" Write only a very short paragraph for the advertisement",
+    
+        "Facebook Story":" Write only a very short paragraph for the story",
+    
+        "Instagram Single Slide Post":" Write only a very short paragraph for the poster.",
+    
+        "Instagram Carousel Post":" Write only a very short paragraph for each slide of the carousel post. Return in following format -\n\n Slide Number: \n\n Slide body text: ",
+    
+        "Instagram Ad":" Write only a very short paragraph for the advertisement",
+    
+        "Instagram Story":" Write only a very short paragraph for the story",
+    
+        "Single Tweet":" ",
+    
+        "Twitter Thread":" ",
+    
+        "Tweet with Image":" Write only a very short paragraph for the poster",
+    
+        "Blog Intro":" ",
+    
+        "Blog Outro":" ",
+    
+        "Blog":" ",
+    
+        "Blog Outline":" ",
+    
+        "Listicle Blog":" ",
+    
+        "Press Release":" ",
+    
+        "Testimonial":" ",
+    
+        "Highlight Product Benefits":" ",
+    
+        "Product Description":" ",
+    
+        "Product Features":" ",
+    
+        "AIDA":" ",
+    
+        "PAS":" ",
+    
+        "BAB":" ",
+    
+        "Welcome Email":" ",
+    
+        "New Product Launch Email":" ",
+    
+        "Product Update Email":" ",
+    
+        "Cold Outreach Email":" ",
+    
+        "Event Promotion Email":" ",
+    
+        "Greetings Email":" "
+
+    },
+    "CTA Only":
+    {
+        "Presentation":" Write only a CTA statement for each slide of the slide deck. Return in following format -\n\n Slide Number: \n\n CTA: ",
+
+        "Mobile Presentation":" Write only a CTA statement for each slide of the slide deck. Return in following format -\n\n Slide Number: \n\n CTA: ",
+    
+        "Slide Show Video":" Write only a CTA statement for each slide of the slide show. Return in following format -\n\n Slide Number: \n\n CTA: ",
+    
+        "Case Study":" ",
+    
+        "Company Update":" ",
+    
+        "Event Announcement":" Write only a CTA statement for the poster",
+    
+        "Share News":" ",
+    
+        "Greetings":" Write only a CTA statement for the greetings poster",
+    
+        "Advertisement":" Write only a CTA statement for the advertisement",
+    
+        "Share Experience":" ",
+    
+        "Client Testimonials":" ",
+    
+        "How-To Articles":" ",
+    
+        "Listicle":" Write only a CTA statement for each slide of the carousel. Return in following format -\n\n Slide Number: \n\n CTA: ",
+    
+        "Text Post":" ",
+    
+        "LinkedIn Article":" ",
+    
+        "LinkedIn Single Slide Post":" Write only a CTA statement for the poster",
+    
+        "LinkedIn Carousel Post":" Write only a CTA statement for each slide of the carousel post. Return in following format -\n\n Slide Number: \n\n CTA: ",
+    
+        "LinkedIn Multi Slide Post":" Write only a CTA statement for each slide of the carousel post. Return in following format -\n\n Slide Number: \n\n CTA: ",
+    
+        "LinkedIn Ad":" Write only a CTA statement for the advertisement",
+    
+        "LinkedIn Slide Show Video":" Write only a CTA statement for each slide of the slide show. Return in following format -\n\n Slide Number: \n\n CTA: ",
+        
+        "Facebook Single Slide Post":" Write only a CTA statement for the poster",
+    
+        "Facebook Multi Slide Post":" Write only a CTA statement for each slide of the carousel post. Return in following format -\n\n Slide Number: \n\n CTA: ",
+    
+        "Facebook Ad":" Write only a CTA statement for the advertisement",
+    
+        "Facebook Story":" Write only a CTA statement for the story",
+    
+        "Instagram Single Slide Post":" Write only a CTA statement for the poster.",
+    
+        "Instagram Carousel Post":" Write only a CTA statement for each slide of the carousel post. Return in following format -\n\n Slide Number: \n\n CTA: ",
+    
+        "Instagram Ad":" Write only a CTA statement for the advertisement",
+    
+        "Instagram Story":" Write only a CTA statement for the story",
+    
+        "Single Tweet":" ",
+    
+        "Twitter Thread":" ",
+    
+        "Tweet with Image":" Write only a CTA statement for the poster",
+    
+        "Blog Intro":" ",
+    
+        "Blog Outro":" ",
+    
+        "Blog":" ",
+    
+        "Blog Outline":" ",
+    
+        "Listicle Blog":" ",
+    
+        "Press Release":" ",
+    
+        "Testimonial":" ",
+    
+        "Highlight Product Benefits":" ",
+    
+        "Product Description":" ",
+    
+        "Product Features":" ",
+    
+        "AIDA":" ",
+    
+        "PAS":" ",
+    
+        "BAB":" ",
+    
+        "Welcome Email":" ",
+    
+        "New Product Launch Email":" ",
+    
+        "Product Update Email":" ",
+    
+        "Cold Outreach Email":" ",
+    
+        "Event Promotion Email":" ",
+    
+        "Greetings Email":" "
+
+    },
+    "Heading and Paragraph":
+    {
+        "Presentation":" Write a heading and one short paragraph for each slide of the slide deck. Return in following format -\n\n Slide Number: \n\n Heading: \n\n Slide body text: ",
+
+        "Mobile Presentation":" Write a heading and one short paragraph for each slide of the slide deck. Return in following format -\n\n Slide Number: \n\n Heading: \n\n Slide body text: ",
+    
+        "Slide Show Video":" Write a heading and one short paragraph for each slide of the slide show. Return in following format -\n\n Slide Number: \n\n Heading: \n\n Slide body text: ",
+    
+        "Case Study":" ",
+    
+        "Company Update":" ",
+    
+        "Event Announcement":" Write a heading and one short paragraph for the poster. Return in following format -\n\n Heading: \n\n Slide body text: ",
+    
+        "Share News":" ",
+    
+        "Greetings":" Write a heading and one short paragraph for the greetings poster. Return in following format -\n\n Heading: \n\n Slide body text: ",
+    
+        "Advertisement":" Write a heading and one short paragraph for the advertisement. Return in following format -\n\n Heading: \n\n Slide body text: ",
+    
+        "Share Experience":" ",
+    
+        "Client Testimonials":" ",
+    
+        "How-To Articles":" ",
+    
+        "Listicle":" Write a heading and one short paragraph for each slide of the carousel. Return in following format -\n\n Slide Number: \n\n Heading: \n\n Slide body text: ",
+    
+        "Text Post":" ",
+    
+        "LinkedIn Article":" ",
+    
+        "LinkedIn Single Slide Post":" Write a heading and one short paragraph for the poster. Return in following format -\n\n Heading: \n\n Slide body text: ",
+    
+        "LinkedIn Carousel Post":" Write a heading and one short paragraph for each slide of the carousel post. Return in following format -\n\n Slide Number: \n\n Heading: \n\n Slide body text: ",
+    
+        "LinkedIn Multi Slide Post":" Write a heading and one short paragraph for each slide of the carousel post. Return in following format -\n\n Slide Number: \n\n Heading: \n\n Slide body text: ",
+    
+        "LinkedIn Ad":" Write a heading and one short paragraph for the advertisement. Return in following format -\n\n Heading: \n\n Slide body text: ",
+    
+        "LinkedIn Slide Show Video":" Write a heading and one short paragraph for each slide of the slide show. Return in following format -\n\n Slide Number: \n\n Heading: \n\n Slide body text: ",
+        
+        "Facebook Single Slide Post":" Write a heading and one short paragraph for the poster. Return in following format -\n\n Heading: \n\n Slide body text: ",
+    
+        "Facebook Multi Slide Post":" Write a heading and one short paragraph for each slide of the carousel post. Return in following format -\n\n Slide Number: \n\n Heading: \n\n Slide body text: ",
+    
+        "Facebook Ad":" Write a heading and one short paragraph for the advertisement. Return in following format -\n\n Heading: \n\n Slide body text: ",
+    
+        "Facebook Story":" Write a heading and one short paragraph for the story. Return in following format -\n\n Heading: \n\n Slide body text: ",
+    
+        "Instagram Single Slide Post":" Write a heading and one short paragraph for the poster. Return in following format -\n\n Heading: \n\n Slide body text: ",
+    
+        "Instagram Carousel Post":" Write a heading and one short paragraph for each slide of the carousel post. Return in following format -\n\n Slide Number: \n\n Heading: \n\n Slide body text: ",
+    
+        "Instagram Ad":" Write a heading and one short paragraph for the advertisement. Return in following format -\n\n Heading: \n\n Slide body text: ",
+    
+        "Instagram Story":" Write a heading and one short paragraph for the story. Return in following format -\n\n Heading: \n\n Slide body text: ",
+    
+        "Single Tweet":" ",
+    
+        "Twitter Thread":" ",
+    
+        "Tweet with Image":" Write a heading and one short paragraph for the poster. Return in following format -\n\n Heading: \n\n Slide body text: ",
+    
+        "Blog Intro":" ",
+    
+        "Blog Outro":" ",
+    
+        "Blog":" ",
+    
+        "Blog Outline":" ",
+    
+        "Listicle Blog":" ",
+    
+        "Press Release":" ",
+    
+        "Testimonial":" ",
+    
+        "Highlight Product Benefits":" ",
+    
+        "Product Description":" ",
+    
+        "Product Features":" ",
+    
+        "AIDA":" ",
+    
+        "PAS":" ",
+    
+        "BAB":" ",
+    
+        "Welcome Email":" ",
+    
+        "New Product Launch Email":" ",
+    
+        "Product Update Email":" ",
+    
+        "Cold Outreach Email":" ",
+    
+        "Event Promotion Email":" ",
+    
+        "Greetings Email":" "
+
+    },
+    "Heading and CTA":
+    {
+        "Presentation":" Write a heading and a CTA statement for each slide of the slide deck. Return in following format -\n\n Slide Number: \n\n Heading: \n\n CTA: ",
+
+        "Mobile Presentation":" Write a heading and a CTA statement for each slide of the slide deck. Return in following format -\n\n Slide Number: \n\n Heading: \n\n CTA: ",
+    
+        "Slide Show Video":" Write a heading and a CTA statement for each slide of the slide show. Return in following format -\n\n Slide Number: \n\n Heading: \n\n CTA: ",
+    
+        "Case Study":" ",
+    
+        "Company Update":" ",
+    
+        "Event Announcement":" Write a heading and a CTA statement for the poster. Return in following format -\n\n Heading: \n\n CTA: ",
+    
+        "Share News":" ",
+    
+        "Greetings":" Write a heading and a CTA statement for the greetings poster. Return in following format -\n\n Heading: \n\n CTA: ",
+    
+        "Advertisement":" Write a heading and a CTA statement for the advertisement. Return in following format -\n\n Heading: \n\n CTA: ",
+    
+        "Share Experience":" ",
+    
+        "Client Testimonials":" ",
+    
+        "How-To Articles":" ",
+    
+        "Listicle":" Write a heading and a CTA statement for each slide of the carousel. Return in following format -\n\n Slide Number: \n\n Heading: \n\n CTA: ",
+    
+        "Text Post":" ",
+    
+        "LinkedIn Article":" ",
+    
+        "LinkedIn Single Slide Post":" Write a heading and a CTA statement for the poster. Return in following format -\n\n Heading: \n\n CTA: ",
+    
+        "LinkedIn Carousel Post":" Write a heading and a CTA statement for each slide of the carousel post. Return in following format -\n\n Slide Number: \n\n Heading: \n\n CTA: ",
+    
+        "LinkedIn Multi Slide Post":" Write a heading and a CTA statement for each slide of the carousel post. Return in following format -\n\n Slide Number: \n\n Heading: \n\n CTA: ",
+    
+        "LinkedIn Ad":" Write a heading and a CTA statement for the advertisement. Return in following format -\n\n Heading: \n\n CTA: ",
+    
+        "LinkedIn Slide Show Video":" Write a heading and a CTA statement for each slide of the slide show. Return in following format -\n\n Slide Number: \n\n Heading: \n\n CTA: ",
+        
+        "Facebook Single Slide Post":" Write a heading and a CTA statement for the poster. Return in following format -\n\n Heading: \n\n CTA: ",
+    
+        "Facebook Multi Slide Post":" Write a heading and a CTA statement for each slide of the carousel post. Return in following format -\n\n Slide Number: \n\n Heading: \n\n CTA: ",
+    
+        "Facebook Ad":" Write a heading and a CTA statement for the advertisement. Return in following format -\n\n Heading: \n\n CTA: ",
+    
+        "Facebook Story":" Write a heading and a CTA statement for the story. Return in following format -\n\n Heading: \n\n CTA: ",
+    
+        "Instagram Single Slide Post":" Write a heading and a CTA statement for the poster. Return in following format -\n\n Heading: \n\n CTA: ",
+    
+        "Instagram Carousel Post":" Write a heading and a CTA statement for each slide of the carousel post. Return in following format -\n\n Slide Number: \n\n Heading: \n\n CTA: ",
+    
+        "Instagram Ad":" Write a heading and a CTA statement for the advertisement. Return in following format -\n\n Heading: \n\n CTA: ",
+    
+        "Instagram Story":" Write a heading and a CTA statement for the story. Return in following format -\n\n Heading: \n\n CTA: ",
+    
+        "Single Tweet":" ",
+    
+        "Twitter Thread":" ",
+    
+        "Tweet with Image":" Write a heading and a CTA statement for the poster. Return in following format -\n\n Heading: \n\n CTA: ",
+    
+        "Blog Intro":" ",
+    
+        "Blog Outro":" ",
+    
+        "Blog":" ",
+    
+        "Blog Outline":" ",
+    
+        "Listicle Blog":" ",
+    
+        "Press Release":" ",
+    
+        "Testimonial":" ",
+    
+        "Highlight Product Benefits":" ",
+    
+        "Product Description":" ",
+    
+        "Product Features":" ",
+    
+        "AIDA":" ",
+    
+        "PAS":" ",
+    
+        "BAB":" ",
+    
+        "Welcome Email":" ",
+    
+        "New Product Launch Email":" ",
+    
+        "Product Update Email":" ",
+    
+        "Cold Outreach Email":" ",
+    
+        "Event Promotion Email":" ",
+    
+        "Greetings Email":" "
+
+    },
+    "Paragraph and CTA":
+    {
+        "Presentation":" Write a very short paragraph and a CTA statement for each slide of the slide deck. Return in following format -\n\n Slide Number: \n\nSlide body text: \n\n CTA: ",
+
+        "Mobile Presentation":" Write a very short paragraph and a CTA statement for each slide of the slide deck. Return in following format -\n\n Slide Number: \n\nSlide body text: \n\n CTA: ",
+    
+        "Slide Show Video":" Write a very short paragraph and a CTA statement for each slide of the slide show. Return in following format -\n\n Slide Number: \n\nSlide body text: \n\n CTA: ",
+    
+        "Case Study":" ",
+    
+        "Company Update":" ",
+    
+        "Event Announcement":" Write a very short paragraph and a CTA statement for the poster. Return in following format -\n\nSlide body text: \n\n CTA: ",
+    
+        "Share News":" ",
+    
+        "Greetings":" Write a very short paragraph and a CTA statement for the greetings poster. Return in following format -\n\nSlide body text: \n\n CTA: ",
+    
+        "Advertisement":" Write a very short paragraph and a CTA statement for the advertisement. Return in following format -\n\nSlide body text: \n\n CTA: ",
+    
+        "Share Experience":" ",
+    
+        "Client Testimonials":" ",
+    
+        "How-To Articles":" ",
+    
+        "Listicle":" Write a very short paragraph and a CTA statement for each slide of the carousel. Return in following format -\n\n Slide Number: \n\nSlide body text: \n\n CTA: ",
+    
+        "Text Post":" ",
+    
+        "LinkedIn Article":" ",
+    
+        "LinkedIn Single Slide Post":" Write a very short paragraph and a CTA statement for the poster. Return in following format -\n\nSlide body text: \n\n CTA: ",
+    
+        "LinkedIn Carousel Post":" Write a very short paragraph and a CTA statement for each slide of the carousel post. Return in following format -\n\n Slide Number: \n\nSlide body text: \n\n CTA: ",
+    
+        "LinkedIn Multi Slide Post":" Write a very short paragraph and a CTA statement for each slide of the carousel post. Return in following format -\n\n Slide Number: \n\nSlide body text: \n\n CTA: ",
+    
+        "LinkedIn Ad":" Write a very short paragraph and a CTA statement for the advertisement. Return in following format -\n\nSlide body text: \n\n CTA: ",
+    
+        "LinkedIn Slide Show Video":" Write a very short paragraph and a CTA statement for each slide of the slide show. Return in following format -\n\n Slide Number: \n\nSlide body text: \n\n CTA: ",
+        
+        "Facebook Single Slide Post":" Write a very short paragraph and a CTA statement for the poster. Return in following format -\n\nSlide body text: \n\n CTA: ",
+    
+        "Facebook Multi Slide Post":" Write a very short paragraph and a CTA statement for each slide of the carousel post. Return in following format -\n\n Slide Number: \n\nSlide body text: \n\n CTA: ",
+    
+        "Facebook Ad":" Write a very short paragraph and a CTA statement for the advertisement. Return in following format -\n\nSlide body text: \n\n CTA: ",
+    
+        "Facebook Story":" Write a very short paragraph and a CTA statement for the story. Return in following format -\n\nSlide body text: \n\n CTA: ",
+    
+        "Instagram Single Slide Post":" Write a very short paragraph and a CTA statement for the poster. Return in following format -\n\nSlide body text: \n\n CTA: ",
+    
+        "Instagram Carousel Post":" Write a very short paragraph and a CTA statement for each slide of the carousel post. Return in following format -\n\n Slide Number: \n\nSlide body text: \n\n CTA: ",
+    
+        "Instagram Ad":" Write a very short paragraph and a CTA statement for the advertisement. Return in following format -\n\nSlide body text: \n\n CTA: ",
+    
+        "Instagram Story":" Write a very short paragraph and a CTA statement for the story. Return in following format -\n\nSlide body text: \n\n CTA: ",
+    
+        "Single Tweet":" ",
+    
+        "Twitter Thread":" ",
+    
+        "Tweet with Image":" Write a very short paragraph and a CTA statement for the poster. Return in following format -\n\nSlide body text: \n\n CTA: ",
+    
+        "Blog Intro":" ",
+    
+        "Blog Outro":" ",
+    
+        "Blog":" ",
+    
+        "Blog Outline":" ",
+    
+        "Listicle Blog":" ",
+    
+        "Press Release":" ",
+    
+        "Testimonial":" ",
+    
+        "Highlight Product Benefits":" ",
+    
+        "Product Description":" ",
+    
+        "Product Features":" ",
+    
+        "AIDA":" ",
+    
+        "PAS":" ",
+    
+        "BAB":" ",
+    
+        "Welcome Email":" ",
+    
+        "New Product Launch Email":" ",
+    
+        "Product Update Email":" ",
+    
+        "Cold Outreach Email":" ",
+    
+        "Event Promotion Email":" ",
+    
+        "Greetings Email":" "
+
+    },
+    "Heading, Paragraph and CTA":
+    {
+        "Presentation":" Write a heading,a very short paragraph and a CTA statement for each slide of the slide deck. Return in following format -\n\nSlide Number: \n\nHeading: \n\nSlide body text: \n\n CTA: ",
+
+        "Mobile Presentation":" Write a heading,a very short paragraph and a CTA statement for each slide of the slide deck. Return in following format -\n\nSlide Number: \n\nHeading: \n\nSlide body text: \n\n CTA: ",
+    
+        "Slide Show Video":" Write a heading,a very short paragraph and a CTA statement for each slide of the slide show. Return in following format -\n\nSlide Number: \n\nHeading: \n\nSlide body text: \n\n CTA: ",
+    
+        "Case Study":" ",
+    
+        "Company Update":" ",
+    
+        "Event Announcement":" Write a heading,a very short paragraph and a CTA statement for the poster",
+    
+        "Share News":" ",
+    
+        "Greetings":" Write a heading,a very short paragraph and a CTA statement for the greetings poster",
+    
+        "Advertisement":" Write a heading,a very short paragraph and a CTA statement for the advertisement",
+    
+        "Share Experience":" ",
+    
+        "Client Testimonials":" ",
+    
+        "How-To Articles":" ",
+    
+        "Listicle":" Write a heading,a very short paragraph and a CTA statement for each slide of the carousel. Return in following format -\n\nSlide Number: \n\nHeading: \n\nSlide body text: \n\n CTA: ",
+    
+        "Text Post":" ",
+    
+        "LinkedIn Article":" ",
+    
+        "LinkedIn Single Slide Post":" Write a heading,a very short paragraph and a CTA statement for the poster",
+    
+        "LinkedIn Carousel Post":" Write a heading,a very short paragraph and a CTA statement for each slide of the carousel post. Return in following format -\n\nSlide Number: \n\nHeading: \n\nSlide body text: \n\n CTA: ",
+    
+        "LinkedIn Multi Slide Post":" Write a heading,a very short paragraph and a CTA statement for each slide of the carousel post. Return in following format -\n\nSlide Number: \n\nHeading: \n\nSlide body text: \n\n CTA: ",
+    
+        "LinkedIn Ad":" Write a heading,a very short paragraph and a CTA statement for the advertisement. Return in following format -\n\nHeading: \n\nSlide body text: \n\n CTA: ",
+    
+        "LinkedIn Slide Show Video":" Write a heading,a very short paragraph and a CTA statement for each slide of the slide show. Return in following format -\n\nSlide Number: \n\nHeading: \n\nSlide body text: \n\n CTA: ",
+        
+        "Facebook Single Slide Post":" Write a heading,a very short paragraph and a CTA statement for the poster. Return in following format -\n\nHeading: \n\nSlide body text: \n\n CTA: ",
+    
+        "Facebook Multi Slide Post":" Write a heading,a very short paragraph and a CTA statement for each slide of the carousel post. Return in following format -\n\nSlide Number: \n\nHeading: \n\nSlide body text: \n\n CTA: ",
+    
+        "Facebook Ad":" Write a heading,a very short paragraph and a CTA statement for the advertisement. Return in following format -\n\nHeading: \n\nSlide body text: \n\n CTA: ",
+    
+        "Facebook Story":" Write a heading,a very short paragraph and a CTA statement for the story. Return in following format -\n\nHeading: \n\nSlide body text: \n\n CTA: ",
+    
+        "Instagram Single Slide Post":" Write a heading,a very short paragraph and a CTA statement for the poster. Return in following format -\n\nHeading: \n\nSlide body text: \n\n CTA: ",
+    
+        "Instagram Carousel Post":" Write a heading,a very short paragraph and a CTA statement for each slide of the carousel post. Return in following format -\n\nSlide Number: \n\nHeading: \n\nSlide body text: \n\n CTA: ",
+    
+        "Instagram Ad":" Write a heading,a very short paragraph and a CTA statement for the advertisement. Return in following format -\n\nHeading: \n\nSlide body text: \n\n CTA: ",
+    
+        "Instagram Story":" Write a heading,a very short paragraph and a CTA statement for the story. Return in following format -\n\nHeading: \n\nSlide body text: \n\n CTA: ",
+    
+        "Single Tweet":" ",
+    
+        "Twitter Thread":" ",
+    
+        "Tweet with Image":" Write a heading,a very short paragraph and a CTA statement for the poster. Return in following format -\n\nHeading: \n\nSlide body text: \n\n CTA: ",
+    
+        "Blog Intro":" ",
+    
+        "Blog Outro":" ",
+    
+        "Blog":" ",
+    
+        "Blog Outline":" ",
+    
+        "Listicle Blog":" ",
+    
+        "Press Release":" ",
+    
+        "Testimonial":" ",
+    
+        "Highlight Product Benefits":" ",
+    
+        "Product Description":" ",
+    
+        "Product Features":" ",
+    
+        "AIDA":" ",
+    
+        "PAS":" ",
+    
+        "BAB":" ",
+    
+        "Welcome Email":" ",
+    
+        "New Product Launch Email":" ",
+    
+        "Product Update Email":" ",
+    
+        "Cold Outreach Email":" ",
+    
+        "Event Promotion Email":" ",
+    
+        "Greetings Email":" "
+
+    },
+    "Text Only":
+    {
+        "Presentation":" ",
+
+        "Mobile Presentation":" ",
+    
+        "Slide Show Video":" ",
+    
+        "Case Study":" Generate the case study in a business format. ",
+    
+        "Company Update":" Generate the company update in form of a social media announcement. ",
+    
+        "Event Announcement":" ",
+    
+        "Share News":" Write the news article with a headline.",
+    
+        "Greetings":" ",
+    
+        "Advertisement":" ",
+    
+        "Share Experience":" Write the note.",
+    
+        "Client Testimonials":" Write the testimonial with a headline and a byline",
+    
+        "How-To Articles":" Write a well structured how-to article.",
+    
+        "Listicle":" ",
+    
+        "Text Post":" Write an engaging social media post.",
+    
+        "LinkedIn Article":" Write a well structured article.",
+    
+        "LinkedIn Single Slide Post":" ",
+    
+        "LinkedIn Carousel Post":" ",
+    
+        "LinkedIn Multi Slide Post":" ",
+    
+        "LinkedIn Ad":" ",
+    
+        "LinkedIn Slide Show Video":" ",
+        
+        "Facebook Single Slide Post":" ",
+    
+        "Facebook Multi Slide Post":" ",
+    
+        "Facebook Ad":"  ",
+    
+        "Facebook Story":" ",
+    
+        "Instagram Single Slide Post":" ",
+    
+        "Instagram Carousel Post":" ",
+    
+        "Instagram Ad":" ",
+    
+        "Instagram Story":" ",
+    
+        "Single Tweet":" Write a viral tweet.",
+    
+        "Twitter Thread":" Write a viral twitter thread.",
+    
+        "Tweet with Image":" ",
+    
+        "Blog Intro":" Write a catchy introduction for the blog.",
+    
+        "Blog Outro":" Write an effective conclusion for the blog.",
+    
+        "Blog":" Write a well structured, SEO optimised, blog.",
+    
+        "Blog Outline":" Write a compelling outline for the blog. Write only the section headers without details.",
+    
+        "Listicle Blog":" Write a compelling listicle blog. Write the details along with the list item.",
+    
+        "Press Release":" Write the press release in a business format.",
+    
+        "Testimonial":" Write the testimonial with a headline and a byline.",
+    
+        "Highlight Product Benefits":" Write a well structured product benefits note.",
+    
+        "Product Description":" Write a well structured product description.",
+    
+        "Product Features":" Write compelling product features.",
+    
+        "AIDA":" Write the copy with Awareness, Interest, Desire and Action as separate sections.",
+    
+        "PAS":" Write the copy with Problem, Agitation and Solution as separate sections.",
+    
+        "BAB":" Write the copy with Before, After and Bridge as separate sections.",
+    
+        "Welcome Email":" Write the email with a catchy subject line and a short body.",
+    
+        "New Product Launch Email":" Write the email with a catchy subject line and a short body.",
+    
+        "Product Update Email":" Write the email with a catchy subject line and a short body.",
+    
+        "Cold Outreach Email":" Write the email with a catchy subject line and a short body.",
+    
+        "Event Promotion Email":" Write the email with a catchy subject line and a short body.",
+    
+        "Greetings Email":" Write the email with a catchy subject line and a short body."
+
+    }
+}
