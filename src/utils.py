@@ -3,7 +3,7 @@ import openai
 from jinja2 import Template
 import json
 import random
-import backoff
+#import backoff
 
 def moderation(text):
     response = openai.Moderation.create(input=text)
@@ -11,9 +11,10 @@ def moderation(text):
         return 'Moderated : The generated text is of violent, sexual or hateful in nature. Try generating another piece of text or change your story topic. Contact us for more information'
     else:
         return text
-
+'''
 @backoff.on_exception(backoff.expo, (openai.error.RateLimitError, openai.error.ServiceUnavailableError,
                                      openai.error.APIConnectionError), max_tries=10)
+'''
 def open_ai_call(models="", prompt="", temperature=0.7, max_tokens=256,top_p=0.5,frequency_penalty=1,presence_penalty=1,user_id="test-user"):
     response=openai.Completion.create(model=models, prompt=prompt,temperature=temperature,max_tokens=max_tokens,top_p=top_p,frequency_penalty=frequency_penalty,presence_penalty=presence_penalty,user=user_id)
     text=moderation(response['choices'][0]['text'])
