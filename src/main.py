@@ -42,7 +42,7 @@ if content_type != "":
         with col1:
             with st.form(key='my_form',clear_on_submit=False):
                 topic=st.text_input("Enter topic")
-                tonality=st.selectbox('Choose the tonality of your desire',('Witty', 'Sarcastic', 'Funny','Enthusiatic','Formal','Conversational','Casual','Respectful','Sympathetic','Romantic'))
+                tonality=st.selectbox('Choose the tonality of your desire',('Witty', 'Sarcastic', 'Funny','Enthusiastic','Formal','Conversational','Casual','Respectful','Sympathetic','Romantic'))
         
                 length=None
                 if content_type in ("Presentation","Mobile Presentation","Slide Show Video","Listicle","Greetings","Advertisement","LinkedIn Single Slide Post","LinkedIn Multi Slide Post","LinkedIn Carousel Post","LinkedIn Ad","LinkedIn Slide Show Video","Facebook Single Slide Post","Facebook Multi Slide Post","Facebook Ad","Facebook Story","Instagram Single Slide Post","Instagram Carousel Post","Instagram Ad","Instagram Story","Tweet with Image"):
