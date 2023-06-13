@@ -55,7 +55,7 @@ if content_type != "":
 
                 brief_text=brief_file[content_type]                
                 #if plan=='Basic':
-                brief=st.text_area("Enter brief",value=brief_text,height=100)
+                brief=st.text_area("Enter brief",value=brief_text,height=200)
                 if brief==brief_text:
                     brief=None
                 #else:

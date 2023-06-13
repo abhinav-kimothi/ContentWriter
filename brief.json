@@ -1,104 +1,90 @@
 {
-    "Presentation":"Cover the following main points\n-\n-\n\nUse [5] slides\n\n**Add any other instructions you want to give**\n**e.g.- write in first person, add a call to action slide in the end, etc.**",
 
     "Mobile Presentation":"Cover the following main points\n-\n-\n\nUse [3] slides\n\n**Add any other instructions you want to give**\n**e.g.- write in first person, add a call to action slide in the end, etc.**",
 
-    "Slide Show Video":"Cover the following main points\n-\n-\n\nUse [4] slides\n\n**Add any other instructions you want to give**\n**e.g.- write in first person, add a call to action slide in the end, etc.**",
-
-    "Case Study":"Problem Statement-\n\nApproach -\n\nImpact-\n\nTake Aways- \n\n**Add any other instructions you want to give**\n**e.g.- write in first person, end with a call to action, the client details etc.**",
-
-    "Company Update":"Cover the following main points\n-\n- \n\n**Add any other instructions you want to give**\n**e.g.- write in first person, your point of view, etc.**",
-
-    "Event Announcement":"Event details-\n\nEvent Date & Time- \n\nEvent Venue- \n\nCTA- \n\n**Add any other instructions you want to give**\n**e.g.- make the invitation personal, add route details, etc.**",
-
-    "Share News":"Cover the following main points\n-\n-\n\nCTA- \n\n**Add any other instructions you want to give**\n**e.g.- add date and location, add intended audience, etc.**",
-
-    "Greetings":"Audience-\n\nCTA- \n\n**Add any other instructions you want to give**",
-
-    "Advertisement":"Main CTA- \n\nBenefits/Offering- \n\n**Add any other instructions you want to give**",
-
-    "Share Experience":"Cover the following main points\n-\n-\n\nKey Take Aways- \n\n**Add any other instructions you want to give**\n",
-
-    "Client Testimonials":"Customer Name & Designation- \n\nCover the following benefits\n-\n-\n\n**Add any other instructions you want to give**\n",
-
-    "How-To Articles":"Cover the following main points\n-\n-\n\nCover in [5] steps \n\n**Add any other instructions you want to give**\n",
-
-    "Listicle":"Cover the following main items\n-\n-\n\ncreate the listicle with 5 items\n\nCTA- \n\n**Add any other instructions you want to give**\n",
-
-    "Text Post":"Cover the following main points\n-\n-\n\n**Add any other instructions you want to give**\n",
-
-    "LinkedIn Article":"Cover the following main points\n-\n- \n\n**Add any other instructions you want to give**\n",
-
-    "LinkedIn Single Slide Post":"Cover the following main points\n-\n-\n\n**Add any other instructions you want to give**\n**e.g.- write in first person, add a call to action, etc.**",
-
-    "LinkedIn Carousel Post":"Cover the following main points\n-\n-\n\nUse [5] slides\n\n**Add any other instructions you want to give**\n**e.g.- write in first person, add a call to action slide in the end, etc.**",
-
-    "LinkedIn Multi Slide Post":"Cover the following main points\n-\n-\n\nUse [5] slides\n\n**Add any other instructions you want to give**\n**e.g.- write in first person, add a call to action slide in the end, etc.**",
-
-    "LinkedIn Ad":"Main CTA- \n\nBenefits/Offering- \n\n**Add any other instructions you want to give**",
-
-    "LinkedIn Slide Show Video":"Cover the following main points\n-\n-\n\nUse [5] slides\n\n**Add any other instructions you want to give**\n**e.g.- write in first person, add a call to action slide in the end, etc.**",
     
-    "Facebook Single Slide Post":"Cover the following main points\n-\n-\n\n**Add any other instructions you want to give**\n**e.g.- write in first person, add a call to action, etc.**",
 
-    "Facebook Multi Slide Post":"Cover the following main points\n-\n-\n\nUse [5] slides\n\n**Add any other instructions you want to give**\n**e.g.- write in first person, add a call to action slide in the end, etc.**",
-
-    "Facebook Ad":"Main CTA- \n\nBenefits/Offering- \n\n**Add any other instructions you want to give**",
-
-    "Facebook Story":"Cover the following main points\n-\n-\n\nCTA- \n\n**Add any other instructions you want to give**\n",
-
-    "Instagram Single Slide Post":"Cover the following main points\n-\n-\n\nCTA- \n\n**Add any other instructions you want to give**\n",
-
-    "Instagram Carousel Post":"Cover the following main points\n-\n-\n\nUse [5] slides\n\n**Add any other instructions you want to give**\n**e.g.- write in first person, add a call to action slide in the end, etc.**",
-
-    "Instagram Ad":"Main CTA- \n\nBenefits/Offering- \n\n**Add any other instructions you want to give**",
-
-    "Instagram Story":"Cover the following main points\n-\n-\n\nCTA- \n\n**Add any other instructions you want to give**\n",
-
-    "Single Tweet":"Cover the following main points\n-\n-\n\nCTA- \n\nHashtags-\n\n**Add any other instructions you want to give**\n",
-
-    "Twitter Thread":"Cover the following main points\n-\n-\n\nusing [5] tweets-\n\nCTA- \n\nHashtags-\n\nAdd any other instructions you want to give**\n",
-
-    "Tweet with Image":"Cover the following main points\n-\n-\n\n**Add any other instructions you want to give**\n**e.g.- write in first person, add a call to action, etc.**",
-
-    "Blog Intro":"Cover the following main points\n-\n- \n\n**Add any other instructions you want to give**\n",
-
-    "Blog Outro":"Cover the following main points\n-\n- \n\nCTA-\n\nOther instructions-\n",
-
-    "Blog":"Cover the following main points\n-\n- \n\n**Add any other instructions you want to give**\n",
-
-    "Blog Outline":"Cover the following main points\n-\n- \n\nCTA-\n\nOther instructions-\n",
-
-    "Listicle Blog":"Cover the following main items\n-\n-\n\ncreate the listicle with 5 items\n\nCTA- \n\n**Add any other instructions you want to give**\n",
-
-    "Press Release":"Cover the following main items\n-\n- \n\nCTA-\n\n**Add any other instructions you want to give**\n",
-
-    "Testimonial":"Name & Designation- \n\nCover the following benefits\n-\n-\n\n**Add any other instructions you want to give**\n",
-
-    "Highlight Product Benefits":"Product Description - \n\nKey Benefits/Offering- \n\n**Add any other instructions you want to give**\n",
-
-    "Product Description":"Cover the following main points\n-\n-\n\nTechnical Details- \n\n**Add any other instructions you want to give**\n",
-
-    "Product Features":"Product Description- \n\nKey Benefits/Offering \n\n**Add any other instructions you want to give**\n",
-
-    "AIDA":"Cover the following main points\n-\n-\n\n**Add any other instructions you want to give**\n",
-
-    "PAS":"Cover the following main points\n-\n-\n\n**Add any other instructions you want to give**\n",
-
-    "BAB":"Cover the following main points\n-\n-\n\n**Add any other instructions you want to give**\n",
-
-    "Welcome Email":"Cover the following main points\n-\n-\n\nSender- \n\nReceiver- \n\n**Add any other instructions you want to give**\n",
-
-    "New Product Launch Email":"Product Description- \n\nKey Benefits/Offering\n\nCover the following main points\n-\n-\n\nSender- \n\nReceiver- \n\n**Add any other instructions you want to give**\n",
+    "Presentation": "A brief overview of the presentation - \n\nObjective or key message - \n\nMain sections or topics\nSection 1: \nSection 2: \nSection 3:\n\nKey Points\nPoint 1: \nPoint 2: \nPoint 3: \n\nNumber of slides : \n\nCTA:\n\nStyle:",
 
 
-    "Product Update Email":"Cover the following main points\n-\n-\n\nSender- \n\nReceiver- \n\nOther instructions-\n",
+    "Slide Show Video": "A brief overview of the presentation - \n\nObjective or key message - \n\nMain sections or topics\nSection 1: \nSection 2: \nSection 3:\n\nKey Points\nPoint 1: \nPoint 2: \nPoint 3: \n\nNumber of slides : \n\nCTA:\n\nStyle:",
 
-    "Cold Outreach Email":"Cover the following main points\n-\n-\n\nKey Benefits/Offering\n\nSender- \n\nReceiver- \n\nOther instructions-\n",
+    "Case Study": "A brief overview - \n\nKey problem - \n\nBackground - \n\nChallenge - \n\nSolution - \n\nResult -",
 
-    "Event Promotion Email":"Event details\n-\n-\n\nEvent Date & Time- \n\nEvent Venue- \n\nCTA- \n\n**Add any other instructions you want to give**\n**e.g.- make the invitation personal, add route details, etc.**",
+    "Company Update": "A brief overview - \n\nUpdate details - \n\nBenefit/Impact -",
 
-    "Greetings Email":"Cover the following main points\n-\n-\n\nSender- \n\nReceiver- \n\nOther instructions-\n"
+    "Event Announcement": "A brief overview - \n\nDate - \n\nTime - \n\nLocation - \n\nAgenda - \n\nHighlights or Speakers -",
+
+    "Share News": "Key Information - \n\nDetails - \n\nImpact/Benefits -",
+
+    "Greetings": "Greeting or occasion - \n\nPurpose - \n\nAudience -",
+
+    "Advertisement": "Key Message - \n\nDetails - \n\nAudience - \n\nCTA -",
+
+    "Share Experience": "Key highlights - \n\nExperience details - \n\nTakeaways -",
+
+    "Client Testimonials": "Client Name - \n\nClient Background - \n\nKey Message - \n\nBenefits/Results -",
+
+    "How-To Articles": "Overview - \n\nKey Steps - \n\nTips/Additional information -",
+
+    "Listicle": "Purpose - \n\nItems - \n\nTakeaways -",
+
+    "Press Release": "[Date] - \n\nPurpose or key news being announced - \n\nNews Details - \n\nDetail 1: \nDetail 2: \nDetail 3: \n\nKey Quotes\nQuote 1: \nQuote 2: \nQuote 3: \n\nContact Name: \nContact Email: \nContact Phone:",
+
+    "Testimonial": "Purpose or key aspects - \n\nSource: \nCredibility:",
+
+    "Text Post":"Purpose or key message - \n\nMain content - \n\nCall to Action - ",
+
+    "LinkedIn Article": "Purpose or key topic - \n\nKey points - \nSection 1 - \nSection 2 - \nSection 3 - \n\nKey Takeaways\nTakeaway 1-\nTakeaway 2-\nTakeaway 3-",
+
+    "LinkedIn Single Slide Post": "Key message - \n\nDetails - \n\nCall to Action - ",
+
+    "LinkedIn Multi Slide Post": "Purpose or key message - \n\nMain points\n- \n- \n- \n\nCall to Action - ",
+
+    "LinkedIn Carousel Post": "Purpose or key message - \n\nMain points\n- \n- \n- \n\nCall to Action - ",
+
+    "LinkedIn Ad": "Ad objective - \n\nKey message - \n\nCall to Action - ",
+
+    "LinkedIn Slide Show Video": "A brief overview of the video - \n\nObjective or key message - \n\nMain sections or topics\nSection 1: \nSection 2: \nSection 3:\n\nKey Points\nPoint 1: \nPoint 2: \nPoint 3: \n\nNumber of slides : \n\nCTA:\n\nStyle:",
+    
+    "Facebook Single Slide Post": "Key message - \n\nDetails - \n\nCall to Action - ",
+    "Facebook Multi Slide Post": "Purpose or key message - \n\nMain points\n- \n- \n- \n\nCall to Action - ",
+    "Facebook Ad": "Ad objective - \n\nKey message - \n\nCall to Action - ",
+    "Facebook Story": "Objective - \n\nKey message - \n\nCall to Action - ",
+
+    "Instagram Single Slide Post": "Key message - \n\nDetails - \n\nCall to Action - ",
+    "Instagram Carousel Post": "Purpose or key message - \n\nMain points\n- \n- \n- \n\nCall to Action - ",
+    "Instagram Ad": "Ad objective - \n\nKey message - \n\nCall to Action - ",
+    "Instagram Story": "Objective - \n\nKey message - \n\nCall to Action - ",
+
+    "Single Tweet": "Objective - \n\nKey message - \n\nKeywords - \n\nCall to Action - ",
+    "Twitter Thread": "Objective - \n\nMain points\n-\n-\n-\n\nKeywords - \nCall to Action - ",
+    "Tweet with Image": "Key message - \n\nDetails - \n\nCall to Action - ",
+    "Blog Intro": "Overview of the blog topic and its relevance.\n\nMain points\n-\n-\n-\n\nCall to Action - ",
+    "Blog Outro": "Summary of the main points - \n\nKey takeaways or insights - \n\nCall to Action - ",
+    "Blog": "Purpose or objective of the blog-\n\nMain points - \n-\n-\n-\n\nCall to Action - ",
+    "Blog Outline": "Objective or purpose of the blog.\n\nKey points\n-\n-\n-\n\nCall to action - ",
+    "Listicle Blog": "Purpose or objective of the blog- \n\nList items\n-\n- \n\nCall to Action - ",
+
+
+    "Highlight Product Benefits": "A brief introduction to the product - \nPurpose or key benefits being highlighted - \n\nProduct Benefits - \n\nBenefit 1: \nBenefit 2: \nBenefit 3: \n\nProduct Description - \n\nA brief introduction to the product - \n\nPurpose or key features of the product - \n\nProduct Features - \n\nA brief introduction to the product.\nPurpose or key features being highlighted.\n\nSpecific features or characteristics of the product.\n\n- Feature 1: ________________________\n- Feature 2: ________________________\n- Feature 3: ________________________",
+
+    "Product Description": "A brief introduction to the product: \nPurpose or key features of the product: \nProduct Features:\n- Feature 1: \n- Feature 2: \n- Feature 3: ",
+
+
+    "Product Features":"Product Description- \n\n\nPurpose or key features of the product: \nProduct Features:\n- Feature 1: \n- Feature 2: \n- Feature 3: ",
+
+    "AIDA": "Problem : \n\nBenefits/Solution : \n\nCall to action : ",
+    "BAB": "Key pain points/challenges : \n\nResults : \n\nSolution : ",
+    "PAS": "Problem or pain point - \n\nChallenges or frustrations - \n\nSolution - ",
+
+    "Welcome Email":"Product or service - \n\nKey Benefits - \n\nCall to Action - \n\nSocial Proof or Testimonials - ",
+
+    "New Product Launch Email": "Product Name - \nKey Features - \nBenefits - \n\nCall to Action - \n\nPrice - \n\nAvailability - \n\nLaunch - ",
+    "Product Update Email": "Overview and significance - \n\nUpdate Description - \nBenefits - \nImpact - \nCall to Action - ",
+    "Cold Outreach Email": "Introduce yourself or your company\n\nValue Proposition - \nCall to Action - \n\nFollow-up Plan - \n\nContact details - ",
+    "Event Promotion Email": "Event Name - \nDate and Time - \nVenue - \nBenefits - \nAgenda - \nHighlights or Speakers - \nCall to Action - ",
+    "Greetings Email": "Occasion or holiday - \nCelebration or Reflection - "
 
 }
 
